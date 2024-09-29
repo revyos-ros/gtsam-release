@@ -1,3 +1,26 @@
+## gtsam (jazzy) - 4.2.0-4
+
+The packages in the `gtsam` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy gtsam --override-release-repository-push-url git@github.com:revyos-ros/gtsam-release.git` on `Sun, 29 Sep 2024 06:29:19 -0000`
+
+The `gtsam` package was released.
+
+Version of package(s) in repository `gtsam`:
+
+- upstream repository: https://github.com/borglab/gtsam.git
+- release repository: https://github.com/revyos-ros/gtsam-release.git
+- rosdistro version: `4.2.0-4`
+- old version: `4.2.0-3`
+- new version: `4.2.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## gtsam (humble) - 4.2.0-3
 
 The packages in the `gtsam` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble gtsam --override-release-repository-push-url git@github.com:revyos-ros/gtsam-release.git` on `Mon, 23 Sep 2024 16:15:23 -0000`
